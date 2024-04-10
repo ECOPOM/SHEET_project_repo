@@ -1,0 +1,25 @@
+venv
+.venv
+environment
+dataset/on_tree_apple_detector
+dataset/trunk_detector_rgbd
+dataset/sb_detector_and_classifier
+src/yolov8n.pt
+src/yolov8s-cls.pt
+src/yolov8l.pt
+src/yolov8l-cls.pt
+src/yolov8m.pt
+src/yolov8m-cls.pt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+<<<<<<< HEAD
+TODOs.md
+
+=======
+>>>>>>> d884a18c8c5f340aa72a3fb3a8e0777c37e104f9
