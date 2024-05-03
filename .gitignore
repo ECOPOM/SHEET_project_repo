@@ -18,6 +18,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Word FIles
+*.doc
+*.docx
+
 <<<<<<< HEAD
 TODOs.md
 
