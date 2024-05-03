@@ -57,7 +57,7 @@ The SHEET project has been programmed to start in 2021 and to end in 2024.
 ### 2023 - 2024
 * Third year  **physiologial data collection** ([Open Acces Apple Fruit position and temperature data](https://zenodo.org/records/10805065) - [[documentation here](/Docs/README-OA_Apple_Fruit_pos_and_temp_data%20.pdf)]) 
 
-* Development of the second version of the [**RGB-D/Thermal scanning Platform**](https://github.com/ECOPOM/SHEET_RGBD-T_system). More information of this improved version can be found in "**A Low-cost RGB-D/thermal platform for monitoring fruit temperature with spatial resolution** [ ***IN PRESS*** - Conference Proceedings of the II International Symposium on Precision Management of Orchards and Vineyards. PMOV2024. 3-8 Dec 2023. Tatura, VIC, AUS - [presentation](/docs/PPT_Bortolotti_et_al_TGBD-Thermal_ISHS_2023_v2.pdf)] 
+* Development of the second version of the [**RGB-D/Thermal scanning Platform**](https://github.com/ECOPOM/SHEET_RGBD-T_system). More information of this improved version can be found in "**A Low-cost RGB-D/thermal platform for monitoring fruit temperature with spatial resolution** [ ***IN PRESS*** - Conference Proceedings of the II International Symposium on Precision Management of Orchards and Vineyards. PMOV2024. 3-8 Dec 2023. Tatura, VIC, AUS - [presentation](/Docs/PPT_Bortolotti_et_al_TGBD-Thermal_ISHS_2023_v2.pdf)] 
 
 
 ###  2024
