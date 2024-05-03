@@ -69,7 +69,7 @@ The SHEET project has been programmed to start in 2021 and to end in 2024.
   *  **discrete measurements of apple fruit surface temperature and position** collected with an RGB-D/ Thermal scanning platform prototype (2022 only),
   *   **discrete measurement** reporting the moment of s**unburn damage occurrence**, its **level**, **L\*a\*b\* chroma and Hue** color information, and **DA-meter** index values.
 
-* Realease of [**SHEET project - Unibo Computer Vision Final Repository**](https://zenodo.org/records/10956706)[[documentation here](/Docs/README_CV_Final_Repo_Unibo%20.md)]: The  repository contains all the computer-vision related datasets and models developped during the project. The repository contains:
+* Realease of [**SHEET project - Unibo Computer Vision Final Repository**](https://zenodo.org/doi/10.5281/zenodo.10956705)[[documentation here](/Docs/README_CV_Final_Repo_Unibo%20.md)]: The  repository contains all the computer-vision related datasets and models developped during the project. The repository contains:
   * **YOLOv5**  models for **apple fruit, grape cluster, and tree trunk detections** 
   * **YOLOv8** models for  **colse fruit detection + sunburn symptomps classification**
   * **Annotated datasets** used for the training of each model
@@ -96,7 +96,7 @@ The SHEET project has been programmed to start in 2021 and to end in 2024.
 *  (2024 - *IN PRESS*) '**Effect of TiO<sub>2</sub>  spray application on storability of apple 'Gala'** - *ISHS EHC proceedings - Acta Horticulturae* ISHS 
 *  (2024 - *IN PRESS*) '**Effects of zeolite application and irrigation on berry sunburn damage and vine performances in cv. Sangiovese (Vitis vinifera L.)** - *ISHS EHC proceedings - Acta Horticulturae* ISHS 
 *  (2024 - *IN PRESS*) '**Sunburn Dynamics: Exploring Occurrence and Evolution on Vitis vinifera Berries - A Case Study of 'Sangiovese' and 'Pignoletto' Cultivars.** - *ISHS EHC proceedings - Acta Horticulturae* ISHS
-*  (2024 - *IN PRESS*) '**SOrchard management changes solar radiation profiles, influencing apple sunburn** - *ISHS EHC proceedings - Acta Horticulturae* ISHS  
+*  (2024 - *IN PRESS*) '**Orchard management changes solar radiation profiles, influencing apple sunburn** - *ISHS EHC proceedings - Acta Horticulturae* ISHS  
 *  (2024 - *IN PRESS*) '**Prevention of climate change induced sunburn damage on berries of Vitis vinifera L. with machine learning** - *Journal* Elsevier
 
 
