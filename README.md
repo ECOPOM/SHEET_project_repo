@@ -19,6 +19,8 @@ Experimental data will capture apple, grape, and sweet cherry production in vary
 Experimental data will capture seasonal weather data as well as fruit temperature, fruit sunburn (SB) occurrence and SB symptoms level, in varying climatic condition, on apple, cherry and grape fruit species.
 
 ### More information regarding the SHEET project outcomes  from all the partners can be found HERE(***LINK TO SHEET APP GITHUB when ready***)
+____
+## <p style="text-align: center; "> This page will remain under development / update until the end of 2024 </p>
 
 ## Involved people at UniBo
 Institution: [*University of Bologna*](https://www.unibo.it/it)
@@ -32,11 +34,11 @@ Institution: [*University of Bologna*](https://www.unibo.it/it)
 |Michele Gullino| --- | Research on apple physiology|
 |Gianmarco Bortolotti| gianmarco.bortolotti@unibo.it| Research on apple physiology and tech development|
 |Mirko Piani | mirko.piani2@unibo.it| Data management - tech development - Programmer |
-|Dario Mengoli | dario.mengoli@unibo.it|  Data management - tech development - Programmer |
+|Dario Mengoli | dario.mengoli2@unibo.it|  Data management - tech development - Programmer |
 |Nicolò Omodei| nicolo.omodei@unibo.it|  Data management - tech development - Programmer |
 |Simone Rossi | simone.rossi39@unibo.it|  Data management - tech development - Programmer |
 |Ilaria FIlippetti | ilaria.filippetti@unibo.it | Research on grape physiology|
-|Gianluca Allegro | gianluca.allegro@unibo.it | Research on grape physiology|
+|Gianluca Allegro | gianluca.allegro2@unibo.it | Research on grape physiology|
 |Daniela Sangiorgio| daniela.sangiorgio2@unibo.it | Research on grape physiology| 
 |Chiara Pastore| chiara.pastore@unibo.it | Research on grape physiology| <br>
 
