@@ -52,7 +52,7 @@ The SHEET project has been programmed to start in 2021 and to end in 2024.
 ### 2022 - 2023
 * Second year **physiologial data collection** ([Open Acces Apple Fruit position and temperature data](https://zenodo.org/records/10805065) - [[documentation here](/docs/README-OA_Apple_Fruit_pos_and_temp_data%20.pdf)])
 * Development of **fruit and trunk detection models** used in the RGB-D-Thermal scanning Platform 
-* Development of the first version of an [**RGB-D/Thermal scanning Platform**](https://github.com/ECOPOM/SHEET_RGBD-T_system): A consumer grade RGB-D/Thermal scanning platfrom was developped and tested in field for its performance as a low cost solution compared to the research level [solution proposed from ATB](https://doi.org/10.1016/j.mex.2022.101712). More information can be found in ***Development of a consumer-grade scanning platform for fruit thermal and position data collection*** [[paper](https://doi.org/10.1109/MetroAgriFor58484.2023.10424204) - [presentation](/docs/PPT_Bortolotti_et_al_RGBD-Thermal_IEEE_2023_v2.pdf)]
+* Development of the first version of an [**RGB-D/Thermal scanning Platform**](https://github.com/ECOPOM/SHEET_RGBD-T_system): A consumer grade RGB-D/Thermal scanning platfrom was developped and tested in field for its performance as a low cost solution compared to the research level [solution proposed from ATB](https://doi.org/10.1016/j.mex.2022.101712). More information can be found in ***Development of a consumer-grade scanning platform for fruit thermal and position data collection*** [[paper](https://doi.org/10.1109/MetroAgriFor58484.2023.10424204) - [presentation](/docs/PPT_Bortolotti_et_al_RGBD-Thermal_IEEE_2023_v1.pdf)]
 
 ### 2023 - 2024
 * Third year  **physiologial data collection** ([Open Acces Apple Fruit position and temperature data](https://zenodo.org/records/10805065) - [[documentation here](/docs/README-OA_Apple_Fruit_pos_and_temp_data%20.pdf)]) 
@@ -80,13 +80,27 @@ TODO: Add Images
 ## Pubblications
 
 * (2022) [How can we reach enhanced climate resilience considering sunburn and heat damage in fruit and vegetables production?](https://doi.org/10.17660/ActaHortic.2023.1372.44) - *Acta Horticulturae* ISHS
+
 *  (2023) [Irrigation during ripening may reduce sunburn damages on berries of Vitis vinifera L. 'Sangiovese'](https://doi.org/10.17660/ActaHortic.2023.1366.46) - *Acta Horticulturae* ISHS 
 *  (2023) [Apple responses to fruit sunburn in Italy'](https://doi.org/10.17660/ActaHortic.2023.1372.29) - *Acta Horticulturae* ISHS 
+*  (2023) ['Development of a consumer-grade scanning platform for fruit thermal and position data collection'](https://doi.org/10.1109/MetroAgriFor58484.2023.10424204 ) - *IEEE 2023 MetroAgriFor Proceedings* IEEE Explorer 
+*   (2023) ['Evaluation of fruit temperature on cherries by means of thermal point clouds'](https://doi.org/10.1109/MetroAgriFor58484.2023.10424355 ) - *IEEE 2023 MetroAgriFor Proceedings* IEEE Explorer 
+   
+*  (2023 - *IN PRESS*) '**A Low-cost RGB-D/thermal platform for monitoring fruit temperature with spatial resolution** - *ISHS PMOV proceedings - Acta Horticulturae* ISHS 
+*  (2023 - *IN PRESS*) '**Assessment of the temperature threshold for the occurrence of sunburn damage in *Vitis vinifera* L. 'Sangiovese'** - *ISHS PMOV proceedings - Acta Horticulturae* ISHS 
+
+*  (2023) '**Come gestire il meleto per ridurre l'incidenza delle scottature solari**'- *Rivista di Frutticoltura n.9* 
+*  (2023) '**Sangiovese, l’irrigazione può ridurre le scottature**' - *L'Informatore Agrario* 
+  
+
+*  (2024 - *IN PRESS*) '**Mobile App for analysing the heat damage risk in grape** - *ISHS EHC proceedings - Acta Horticulturae* ISHS 
+*  (2024 - *IN PRESS*) '**Effect of $TiO_2$  spray application on storability of apple 'Gala'** - *ISHS EHC proceedings - Acta Horticulturae* ISHS 
+*  (2024 - *IN PRESS*) '**Effects of zeolite application and irrigation on berry sunburn damage and vine performances in cv. Sangiovese (Vitis vinifera L.)** - *ISHS EHC proceedings - Acta Horticulturae* ISHS 
+*  (2024 - *IN PRESS*) '**Sunburn Dynamics: Exploring Occurrence and Evolution on Vitis vinifera Berries - A Case Study of 'Sangiovese' and 'Pignoletto' Cultivars.** - *ISHS EHC proceedings - Acta Horticulturae* ISHS
+*  (2024 - *IN PRESS*) '**SOrchard management changes solar radiation profiles, influencing apple sunburn** - *ISHS EHC proceedings - Acta Horticulturae* ISHS  
+*  (2024 - *IN PRESS*) '**Prevention of climate change induced sunburn damage on berries of Vitis vinifera L. with machine learning** - *Journal* Elsevier
 
 
-
-*  (2023) [Come gestire il meleto per ridurre l'incidenza delle scottature solari]- *Rivista di Frutticoltura n.9* 
-*  (2023) [Sangiovese, l’irrigazione può ridurre le scottature]- *L'Informatore Agrario* 
 ## Fundings
-___
- Provided by national sources [National funding agency] and co-funding by the European Union’s Horizon 2020 research and innovation program, Grant Agreement number 862665. https://ictagrifood.eu/node/44656
+This work was supported by the SHEET European project.
+The project SHEET (Sunburn and heat prediction in canopies for evolving a warning tech solution) is part of the ERA-NET co-funded ICT-AGRI-FOOD, with funding provided by national sources (Italian Ministry of the University and Research) and co-funding by the European Union’s Horizon 2020 research and innovation program, Grant Agreement number 862665. https://ictagrifood.eu/node/44656
