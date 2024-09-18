@@ -8,7 +8,7 @@ ____
 <br>
 
 **What is the purpose of the SHEET project?**\
-Purpose of **SHEET** (***S**unburn and **HE**at prediction in canopies for **E**volving a warning **T**ech solution* - https://ictagrifood.eu/node/44656) project is to develop risk prediction models for heat damage in the fruit production and transfer the model in a [functional mobile application on the smart phone](***LINK TO SHEET APP GITHUB when ready***).
+Purpose of **SHEET** (***S**unburn and **HE**at prediction in canopies for **E**volving a warning **T**ech solution* - https://ictagrifood.eu/node/44656) project is to develop risk prediction models for heat damage in the fruit production and transfer the model in a [functional mobile application on the smart phone](https://gitlab-extern.atb-potsdam.de/published/sheet).
 
 Global radiation and temperature rise cause huge risks for the fruit production already affecting the fruit quality, storability, and increasingly results in food waste.
 Experimental data will capture apple, grape, and sweet cherry production in varying elevation, global radiation, and precipitation.
